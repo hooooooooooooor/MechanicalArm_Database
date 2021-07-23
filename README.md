@@ -15,7 +15,7 @@ Content:
       - requirements.text
       - README.rst
       - LICENSE
-      
+      -input-audio-png
 --------------------------------------
 Languages Per File:
 - Seperated Controle Pages:
@@ -25,6 +25,14 @@ Languages Per File:
 - databaseConnect.php (PHP)
 - Robot_Database.sql (SQL)
 - Robot_ERD.png (UML)
+- watsone-streaming-stt
+      -transcribe.py (Python)
+      -speech.cfg (text)
+      - setup.py (Python)
+      - setup.cfg (Text)
+      - requirements.text (Text)
+      - README.rst (Text)
+      - LICENSE (Text)
 --------------------------------------
 Content Per File:
 - Seperated Controle Pages:
